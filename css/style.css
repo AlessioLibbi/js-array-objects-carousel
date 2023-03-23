@@ -115,7 +115,27 @@ img {
 
 .btn {
     padding: 10px;
-    background-color: white;
     margin: 10px;
     font-size: 2rem;
+    color: white;
+}
+
+.uno-bt {
+    background-image: url(../img/04.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.due-bt {
+    background-image: url(../img/05.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tre-bt {
+    background-image: url(../img/02.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
